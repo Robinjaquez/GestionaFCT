@@ -5,9 +5,11 @@ Una práctica desarrollada en **Vue.js, Node.js y Bootstrap** para la gestión d
 ## 🌟 Características  
 
 ### Para usuarios:  
-- **Inscripción por DNI**:  
-  - Si el DNI está registrado en la base de datos, el usuario se inscribe automáticamente al curso.  
-  - Si no está registrado, es redirigido a un formulario de creación de cuenta para registrarse con su DNI y demás datos.  
+- **CRUD Alumnos**:  
+  - Inserción, Eliminacion, Edicion y Visualización de alumnos
+  - Gestion de practicas de cada alumno
+  - Seguimiento y estado de practicas
+  - Relaicon con la empresa
 
 ### Para administradores:  
 - **Gestión de cursos**:  
